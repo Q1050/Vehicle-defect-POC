@@ -4,7 +4,7 @@ Training workspace and proof-of-concept diagnostic packages used by AutoAssist.
 
 Model weights, generated datasets, local state, and training runs are intentionally excluded from Git. The canonical AutoAssist image checkpoint is distributed separately through Google Drive:
 
-`<GOOGLE_DRIVE_MODEL_FOLDER_URL>`
+`Use the shared drive to access this`
 
 After downloading it, either place it at:
 
