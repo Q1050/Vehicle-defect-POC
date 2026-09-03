@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+websockets
+numpy
+scipy
+soundfile
+pydantic
+librosa
+pytest

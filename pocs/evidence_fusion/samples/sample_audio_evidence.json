@@ -1,0 +1,9 @@
+[
+  {
+    "source": "audio",
+    "event": "possible_knocking",
+    "severity": 0.62,
+    "confidence": 0.73,
+    "origin_id": "audio-1"
+  }
+]

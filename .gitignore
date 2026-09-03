@@ -1,0 +1,40 @@
+# Local configuration and Python environments
+.env
+.env.*
+!.env.example
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# Trained/downloaded model files and training output
+*.pt
+*.pth
+*.onnx
+*.torchscript
+*.tflite
+*.h5
+*.keras
+*.safetensors
+*.engine
+/runs/
+/**/runs/
+/**/weights/
+/**/checkpoints/
+
+# Generated datasets and local application state
+/auto_dataset/
+/dataset/
+/dataset_balanced/
+/dataset_merged/
+/public_datasets/
+/synthetic_belt_sheets/
+/synthetic_dataset/
+/data/
+
+# IDE and operating-system files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
